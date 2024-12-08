@@ -26,7 +26,7 @@
 
 ## 📈 GitHub 统计
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TMZZ031130&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 💬 其他
 
